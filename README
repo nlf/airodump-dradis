@@ -1,0 +1,11 @@
+AirodumpUpload
+==============
+
+This Dradis plugin will parse csv output of airodump scans
+To install: 
+    cd <path you installed dradis>/server/vendor/plugins
+    git clone https://github.com/ngenuity/airodump-dradis.git airodump_upload
+
+Restart dradis and you should now have the option to upload Airodump CSV files
+
+Copyright (c) 2011 Nathan LaFreniere, released under the MIT license
